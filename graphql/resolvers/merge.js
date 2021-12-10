@@ -34,6 +34,7 @@ const user = async (userId) => {
     const user = await User.findById(userId);
     return {
       ...user._doc,
+      password: null,
       createdEvents: events.bind(this, user._doc.createdEvents),
     };
   } catch (err) {
