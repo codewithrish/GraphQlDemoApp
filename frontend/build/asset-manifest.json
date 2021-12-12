@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GraphQlDemoApp/static/css/main.e59c9f21.chunk.css",
+    "main.js": "/GraphQlDemoApp/static/js/main.1843703d.chunk.js",
+    "main.js.map": "/GraphQlDemoApp/static/js/main.1843703d.chunk.js.map",
+    "runtime-main.js": "/GraphQlDemoApp/static/js/runtime-main.879890bd.js",
+    "runtime-main.js.map": "/GraphQlDemoApp/static/js/runtime-main.879890bd.js.map",
+    "static/js/2.4aa5ca0e.chunk.js": "/GraphQlDemoApp/static/js/2.4aa5ca0e.chunk.js",
+    "static/js/2.4aa5ca0e.chunk.js.map": "/GraphQlDemoApp/static/js/2.4aa5ca0e.chunk.js.map",
+    "index.html": "/GraphQlDemoApp/index.html",
+    "static/css/main.e59c9f21.chunk.css.map": "/GraphQlDemoApp/static/css/main.e59c9f21.chunk.css.map",
+    "static/js/2.4aa5ca0e.chunk.js.LICENSE.txt": "/GraphQlDemoApp/static/js/2.4aa5ca0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.879890bd.js",
+    "static/js/2.4aa5ca0e.chunk.js",
+    "static/css/main.e59c9f21.chunk.css",
+    "static/js/main.1843703d.chunk.js"
+  ]
+}
