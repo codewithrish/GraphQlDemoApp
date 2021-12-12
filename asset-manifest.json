@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Rishabh-Kumar/GraphQlDemoApp/static/css/main.e59c9f21.chunk.css",
+    "main.js": "/Rishabh-Kumar/GraphQlDemoApp/static/js/main.1843703d.chunk.js",
+    "main.js.map": "/Rishabh-Kumar/GraphQlDemoApp/static/js/main.1843703d.chunk.js.map",
+    "runtime-main.js": "/Rishabh-Kumar/GraphQlDemoApp/static/js/runtime-main.c9d449e2.js",
+    "runtime-main.js.map": "/Rishabh-Kumar/GraphQlDemoApp/static/js/runtime-main.c9d449e2.js.map",
+    "static/js/2.4aa5ca0e.chunk.js": "/Rishabh-Kumar/GraphQlDemoApp/static/js/2.4aa5ca0e.chunk.js",
+    "static/js/2.4aa5ca0e.chunk.js.map": "/Rishabh-Kumar/GraphQlDemoApp/static/js/2.4aa5ca0e.chunk.js.map",
+    "index.html": "/Rishabh-Kumar/GraphQlDemoApp/index.html",
+    "static/css/main.e59c9f21.chunk.css.map": "/Rishabh-Kumar/GraphQlDemoApp/static/css/main.e59c9f21.chunk.css.map",
+    "static/js/2.4aa5ca0e.chunk.js.LICENSE.txt": "/Rishabh-Kumar/GraphQlDemoApp/static/js/2.4aa5ca0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9d449e2.js",
+    "static/js/2.4aa5ca0e.chunk.js",
+    "static/css/main.e59c9f21.chunk.css",
+    "static/js/main.1843703d.chunk.js"
+  ]
+}
